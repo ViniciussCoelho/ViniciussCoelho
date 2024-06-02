@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Twygo](https://twygo.com/)
 - 🌱 I’m currently learning Cloud Computing and Rails
-- 👯 I’m looking to collaborate on Rails projects
+- 👯 I’m looking to collaborate on Ruby projects
 - 📫 How to reach me: vinicoelho.dev@outlook.com
 
 # 💻 Tech Stack:
