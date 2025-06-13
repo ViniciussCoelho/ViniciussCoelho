@@ -1,8 +1,6 @@
 ## Hi there 👋, I'm Vinicius Coelho
-## A passionate programmer!
 
-![4b15ad105c802ff515e64914b535ca48](https://github.com/user-attachments/assets/c0167f20-c73d-4c28-ae1c-ad099baf6a33)
-
+![cd06ab2394c1d6badd12988596ccc2cd](https://github.com/user-attachments/assets/16888d18-6682-42f6-a477-df745a46fa30)
 
 - 🔭 I’m currently working on [Twygo](https://twygo.com/)
 - 🌱 I’m currently learning Cloud Computing
