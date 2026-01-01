@@ -3,7 +3,7 @@
 ![cd06ab2394c1d6badd12988596ccc2cd](https://github.com/user-attachments/assets/16888d18-6682-42f6-a477-df745a46fa30)
 
 - 🔭 I’m currently working on [Twygo](https://twygo.com/)
-- 🌱 I’m currently learning Cloud Computing
+- 🌱 I’m currently learning about servers and network
 - 👯 I’m looking to collaborate on Ruby projects
 - 📫 How to reach me: vinicoelho.dev@outlook.com
 
